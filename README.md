@@ -16,3 +16,15 @@ at this frequency,
 7. w: width of top layer in meters, 
 8. rad_eff: radiation efficiency (%) of the transmission line, typically less than 5% for electrically small
 transmission lines. Can be derived from simulation.
+
+If you find this code useful and use it in your research, please cite the following paper:
+@INPROCEEDINGS{9329989,
+  author={Md Abu Saleh Tajin and Ariana S. Levitt and Yuqiao Liu and Chelsea E. Amanatides and Caroline L. Schauer and Genevieve Dion and Kapil R. Dandekar},
+  booktitle={2020 IEEE International Symposium on Antennas and Propagation and North American Radio Science Meeting}, 
+  title={Extraction of Knitted RFID Antenna Design Parameter from Transmission Line Measurements}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1551-1552},
+  doi={10.1109/IEEECONF35879.2020.9329989}}
+  
