@@ -18,7 +18,7 @@ at this frequency,
 transmission lines. Can be derived from simulation.
 
 If you find this code useful and use it in your research, please cite the following paper:
-
+```
 @INPROCEEDINGS{9329989,
   author={Md Abu Saleh Tajin and Ariana S. Levitt and Yuqiao Liu and Chelsea E. Amanatides and Caroline L. Schauer and Genevieve Dion and Kapil R. Dandekar}, 
   booktitle={2020 IEEE International Symposium on Antennas and Propagation and North American Radio Science Meeting}, 
@@ -28,4 +28,4 @@ If you find this code useful and use it in your research, please cite the follow
   number={},
   pages={1551-1552},
   doi={10.1109/IEEECONF35879.2020.9329989}}
-  
+```  
